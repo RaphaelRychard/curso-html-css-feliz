@@ -1,0 +1,11 @@
+.box {
+    background-color: var( --color-black-second);
+    display: inline-block;
+    padding: 42px 44px;
+    text-align: center;
+    box-shadow: 10px 10px 0 black;
+}
+
+.box .title {
+    margin-bottom: 30px;
+}
