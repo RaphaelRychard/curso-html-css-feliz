@@ -9,6 +9,7 @@
     align-items: center;
     justify-content: center;
     opacity: 0.5;
+    margin: 50px;
 }
 
 .card-project:nth-child(1) {

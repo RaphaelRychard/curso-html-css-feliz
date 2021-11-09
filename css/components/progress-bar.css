@@ -3,7 +3,6 @@
     border: 5px solid #000;
     box-sizing: border-box;
     height: 40px;
-    width: 360px;
 }
 
 .progress-bar::-webkit-progress-bar,

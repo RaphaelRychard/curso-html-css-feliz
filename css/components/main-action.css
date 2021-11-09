@@ -1,4 +1,4 @@
-.action {
+.main-action {
     color: white;
     font-weight: 500;
     font-size: 1em;
@@ -6,7 +6,7 @@
     padding: 0 10px;
 }
 
-.action::before {
+.main-action::before {
     content: "";
     height: 10px;
     width: 10px;
