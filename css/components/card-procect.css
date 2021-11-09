@@ -1,0 +1,30 @@
+.card-project {
+    width: 280px;
+    height: 280px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 0px white;
+    transition: transform 350ms cubic-bezier(0,0,0,3.72);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.5;
+}
+
+.card-project:nth-child(1) {
+    background-color: #7C5E99;
+    border-bottom: 2px solid black;
+}
+.card-project:nth-child(2) {
+    background-color: #4C5B84;
+    border-bottom: 2px solid black;
+}
+.card-project:nth-child(3) {
+    box-shadow: 10px 10px 0px white;
+}
+
+.card-project:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+    opacity: 1;
+}
