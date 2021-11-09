@@ -8,19 +8,12 @@
     --color-second: #7C5E99; 
 }
 
-body, h1, h2, h3 {
-	margin: 0;
-	padding: 0;
+* {
+    margin: 0;
+    padding: 0;
 }
 
 body {
     font-family: 'Fira Code',  sans-serif;
 }
 
-
-button {
-	font-family: inherit; /* inherit herda do pai */
-	border: none;
-}
-
-/* id uma vez por pagina */
