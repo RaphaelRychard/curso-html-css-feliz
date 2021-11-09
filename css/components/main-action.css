@@ -1,9 +1,9 @@
 .main-action {
     color: white;
-    font-weight: 500;
-    font-size: 1em;
     text-decoration: none;
     padding: 0 10px;
+    font-weight: 500;
+    font-size: 1em;
 }
 
 .main-action::before {
