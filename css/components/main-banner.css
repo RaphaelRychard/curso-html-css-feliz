@@ -16,11 +16,12 @@
   
 }
 
-.main-banner .main-box {
-    margin-bottom: 40px;
-}
-
 .main-banner .navigation {
     display: flex;
     justify-content: space-around;
 }
+
+.main-banner .main-box {
+    margin-bottom: 40px;
+}
+
