@@ -9,5 +9,12 @@
     text-shadow: none;
     color: white;
     text-align: center;
+    margin: 50px 0;
+}
+
+.main-title.-trird {
+    font-size: 1em;
+    text-shadow: none;
+    text-align: center;
 }
 
